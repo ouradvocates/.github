@@ -72,4 +72,4 @@ _For more info, check out the
 
 ## [optional] What gif best describes this PR or how it makes you feel?
 
-![alt_text](gif_link)
+![doge cool sunglasses](https://media.tenor.com/cdXMaeNpidQAAAAC/doge-with-it-cool.gif)
