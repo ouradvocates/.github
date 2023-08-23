@@ -40,8 +40,11 @@ request to issue 1234.  And when we merge the pull request, Github will
 automatically close the issue.
 -->
 
-- Related Issue #
-- Closes #
+[JIRA-XXX](https://ouradvocates.atlassian.net/browse/DEV-XXX)
+
+- Related GitHub Issue #
+- Closes GitHub Issue #
+
 
 ## QA Instructions, Screenshots, Recordings
 
