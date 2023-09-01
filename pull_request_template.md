@@ -26,8 +26,11 @@
 - [ ] Bug Fix
 - [ ] Optimization
 - [ ] Documentation Update
+- [ ] System Update
 
 ## Description
+
+This PR ...
 
 ## Related Tickets & Documents
 
@@ -42,7 +45,11 @@ automatically close the issue.
 
 [JIRA-XXX](https://ouradvocates.atlassian.net/browse/DEV-XXX)
 
-- Related GitHub Issue #
+<!--
+Related GitHub Issues
+-->
+
+- Relates to GitHub Issue #
 - Closes GitHub Issue #
 
 
@@ -67,12 +74,14 @@ _For more info, check out the
 ## Added/updated tests?
 
 - [ ] Yes
-- [ ] No, and this is why: _please replace this line with details on why tests
+- [ ] No, because: _please replace this line with details on why tests
       have not been included_
 - [ ] I need help with writing tests
 
-## [optional] Are there any post deployment tasks we need to perform?
+## Post deployment tasks we need to perform?
 
-## [optional] What gif best describes this PR or how it makes you feel?
+- [ ] ...
 
-![merge in action]([https://media0.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e47rsb1xahwfqz7wjvvsa9he7jlhx3vsupmi3l9vyxd&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+## Other Notes
+
+- ...
