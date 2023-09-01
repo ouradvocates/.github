@@ -19,7 +19,7 @@
      manual approval.
 -->
 
-## What type of PR is this? (check all applicable)
+## What type of PR is this?
 
 - [ ] Refactor
 - [ ] Feature
