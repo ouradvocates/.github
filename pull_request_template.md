@@ -43,7 +43,7 @@ request to issue 1234.  And when we merge the pull request, Github will
 automatically close the issue.
 -->
 
-[JIRA-XXX](https://ouradvocates.atlassian.net/browse/DEV-XXX)
+[JIRA/DEV-XXX](https://ouradvocates.atlassian.net/browse/DEV-XXX)
 
 <!--
 Related GitHub Issues
