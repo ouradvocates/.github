@@ -1,6 +1,5 @@
 <!--
-     For Work In Progress Pull Requests, please use the Draft PR feature,
-     see https://github.blog/2019-02-14-introducing-draft-pull-requests/ for further details.
+     For Work In Progress Pull Requests, please use the Draft PR feature.
 
      For a timely review/response, please avoid force-pushing additional
      commits if your PR already received reviews or comments.
@@ -12,11 +11,6 @@
      - ✅ Provide tests for your changes.
      - 📝 Use descriptive commit messages.
      - 📗 Update any related documentation and include any relevant screenshots.
-
-     NOTE: Pull Requests from forked repositories will need to be reviewed by
-     a Advocate Team member before any CI builds will run. Once your PR is approved
-     with a `/ci` reply to the PR, it will be allowed to run subsequent builds without
-     manual approval.
 -->
 
 ## What type of PR is this?
@@ -26,11 +20,12 @@
 - [ ] Bug Fix
 - [ ] Optimization
 - [ ] Documentation Update
+- [ ] Tests
 - [ ] System Update
 
 ## Description
 
-This PR ...
+...
 
 ## Related Tickets & Documents
 
@@ -44,14 +39,6 @@ automatically close the issue.
 -->
 
 [JIRA/DEV-XXX](https://ouradvocates.atlassian.net/browse/DEV-XXX)
-
-<!--
-Related GitHub Issues
--->
-
-- Relates to GitHub Issue #
-- Closes GitHub Issue #
-
 
 ## QA Instructions, Screenshots, Recordings
 
@@ -74,14 +61,9 @@ _For more info, check out the
 ## Added/updated tests?
 
 - [ ] Yes
-- [ ] No, because: _please replace this line with details on why tests
-      have not been included_
+- [ ] No, because: _..._
 - [ ] I need help with writing tests
 
 ## Post deployment tasks we need to perform?
 
 - [ ] ...
-
-## Other Notes
-
-- ...
