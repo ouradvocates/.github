@@ -27,18 +27,18 @@
 
 ...
 
-## Related Tickets & Documents
-
 <!--
 For pull requests that relate or close an issue, please include them
-below.  We like to follow [Github's guidance on linking issues to pull requests](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue).
+below if not already linked.
+
+We like to follow [Github's guidance on linking issues to pull requests](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue).
+
+ex: [JIRA/DEV-XXX](https://ouradvocates.atlassian.net/browse/DEV-XXX)
 
 For example having the text: "closes #1234" would connect the current pull
 request to issue 1234.  And when we merge the pull request, Github will
 automatically close the issue.
 -->
-
-[JIRA/DEV-XXX](https://ouradvocates.atlassian.net/browse/DEV-XXX)
 
 ## QA Instructions, Screenshots, Recordings
 
