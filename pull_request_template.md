@@ -54,6 +54,7 @@ _If your PR includes UI changes, please utilize this checklist:_
 - [ ] Keyboard operability supported?
 - [ ] Checked with [axe DevTools](https://www.deque.com/axe/) and addressed `Critical` and `Serious` issues?
 - [ ] Color contrast tested?
+- [ ] Not Applicable
 
 _For more info, check out the
 [Advocate Accessibility Docs](https://developers.ouradvocates.com/frontend/accessibility)._
