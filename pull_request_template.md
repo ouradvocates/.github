@@ -40,29 +40,14 @@ request to issue 1234.  And when we merge the pull request, Github will
 automatically close the issue.
 -->
 
-## QA Instructions, Screenshots, Recordings
-
-_Please replace this line with instructions on how to test your changes, a note
-on the devices and browsers this has been tested on, as well as any relevant
-images for UI changes._
-
-### UI accessibility checklist
-
-_If your PR includes UI changes, please utilize this checklist:_
-
-- [ ] Semantic HTML implemented?
-- [ ] Keyboard operability supported?
-- [ ] Checked with [axe DevTools](https://www.deque.com/axe/) and addressed `Critical` and `Serious` issues?
-- [ ] Color contrast tested?
-- [ ] Not Applicable
-
-_For more info, check out the
-[Advocate Accessibility Docs](https://developers.ouradvocates.com/frontend/accessibility)._
+<!--
+If there are post-deployment tasks, note them below.
+-->
 
 ## Added/updated tests?
 
 - [ ] Yes
-- [ ] No, because: _..._
+- [ ] No
 - [ ] I need help with writing tests
 
 ## Post deployment tasks we need to perform?
