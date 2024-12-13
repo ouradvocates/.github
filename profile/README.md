@@ -2,6 +2,8 @@
 
  Welcome to the official Advocate GitHub.
 
+Check out some of the fundamental Advocate repositories:
+
 - [Advocate Management Infrastructure (advocate-iac-management)](https://github.com/ouradvocates/advocate-iac-management)
 - [Advocate Tenant Infrastructure (advocate-iac-tenant)](https://github.com/ouradvocates/advocate-iac-tenant)
 - [Advocate Labs Monorepo (advocate-labs)](https://github.com/ouradvocates/advocate-labs)
