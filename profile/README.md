@@ -4,7 +4,7 @@
 
 Check out some of the fundamental Advocate repositories:
 
-| Name | Link |
+| Name | Repository Link |
 | ------ | ------ |
 | Advocate Management Infrastructure | [advocate-iac-management](https://github.com/ouradvocates/advocate-iac-management) |
 | Advocate Tenant Infrastructure | [advocate-iac-tenant](https://github.com/ouradvocates/advocate-iac-tenant) |
