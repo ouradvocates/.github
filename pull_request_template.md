@@ -22,6 +22,7 @@
 - [ ] Documentation Update
 - [ ] Tests
 - [ ] System Update
+- [ ] Release
 
 ## Summary
 
@@ -37,15 +38,34 @@ below if not already linked.
 
 We like to follow [Github's guidance on linking issues to pull requests](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue).
 
-ex: [JIRA/DEV-XXX](https://ouradvocates.atlassian.net/browse/DEV-XXX)
+When Linear ticket IDs (e.g. TO-7, ENG-123) are mentioned in your branch name
+or commit messages, they are automatically linked to this PR and back to the
+Linear ticket.
 
-For example having the text: "closes #1234" would connect the current pull
-request to issue 1234.  And when we merge the pull request, Github will
+For example, having the text "closes #1234" would connect the current pull
+request to issue 1234. When we merge the pull request, Github will
 automatically close the issue.
 -->
 
+## QA Instructions, Screenshots, Recordings
+
+_Please replace this line with instructions on how to test your changes, a note
+on the devices and browsers this has been tested on, as well as any relevant
+images for UI changes._
+
 <!--
-If there are post-deployment tasks, note them below.
+### UI accessibility checklist
+
+_If your PR includes UI changes, please utilize this checklist:_
+
+- [ ] Semantic HTML implemented?
+- [ ] Keyboard operability supported?
+- [ ] Checked with [axe DevTools](https://www.deque.com/axe/) and addressed `Critical` and `Serious` issues?
+- [ ] Color contrast tested?
+- [ ] Not Applicable
+
+_For more info, check out the
+[Advocate Accessibility Docs](https://developers.ouradvocates.com/frontend/accessibility)._
 -->
 
 ## Added/updated tests?
